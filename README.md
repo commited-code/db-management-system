@@ -28,6 +28,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter detalhes.
 
----
-
 © 2023 [commited-code](https://github.com/commited-code)
